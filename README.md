@@ -22,7 +22,7 @@ availabe in MELPA and can be difficult to install.
 
 Both ein and ein-mumamo are available in MELPA, and this is the preferred way to
 install these pacakges. Otherwise you will need to download both from Github
-([ein]][ein github] and [ein-mumamo][ein-mumamo github]).
+([ein][ein github] and [ein-mumamo][ein-mumamo github]).
 
 Make sure both ein and ein-mumamo are in your load path, then add
 
