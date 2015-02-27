@@ -16,9 +16,12 @@ More documentation on this feature can be found in the
 Installing
 ----------
 
-With ein-mumamo depends on parts of nxhtml, so I have tried to include all the
-nxhtml dependencies in one place since [nxhtml][nxhtml] is not currently
-availabe in MELPA and can be difficult to install.
+ein-mumamo depends on parts of nxhtml, so you will need to install
+[nxhtml][nxhtml] manually, as it is not currently availabe in MELPA. It may be
+possible to install via [el-get](https://github.com/dimitri/el-get), though I
+have not tested this method. I have succesfully install nxhtml from
+[github](https://github.com/emacsmirror/nxhtml) and after adding nxhtml/util to
+my emacs load path have been able to get MuMaMo support in ein functional.
 
 Both ein and ein-mumamo are available in MELPA, and this is the preferred way to
 install these pacakges. Otherwise you will need to download both from Github
