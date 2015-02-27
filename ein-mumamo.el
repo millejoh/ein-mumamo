@@ -1,10 +1,12 @@
-;;; ein-mumamo.el --- MuMaMo for notebook
+;;; ein-mumamo.el --- Multiple major mode support for Emacs IPython Notebook
 
 ;; Copyright (C) 2012 - Takafumi Arakaki
 ;; Copyright (C) 2015 - John Miller
 
 ;; Author: Takafumi Arakaki <aka.tkf at gmail.com>
 ;;       : John Miller <millejoh at mac.com>
+;; Package-Version: 0.1.0
+;; Package-Requires: ((ein "0.4"))
 
 ;; This file is NOT part of GNU Emacs.
 
